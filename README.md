@@ -1,3 +1,3 @@
 # Algorithms
-Personal algorithms folder for practice 
+Personal algorithms folder for practice.
 
