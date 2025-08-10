@@ -13,6 +13,7 @@ def MergeSort(arr):
     
     return arr
 
+#Helper method for MergeSort
 def merge(left, right):
     result = []
     i = j = 0
@@ -28,7 +29,7 @@ def merge(left, right):
     result.extend(right[j:])
     return result
         
-
+#Prints array in one line
 def PrintArray(array):
     print()
     for item in array:
